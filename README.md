@@ -25,3 +25,5 @@ You do _not_ need to set up a database or any interactivity on the webpage yet. 
 Test for PR - please ignore
 
 Extra notes for updating ci.yml
+
+Testing failure of go tests
