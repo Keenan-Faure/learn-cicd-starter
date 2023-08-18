@@ -27,3 +27,5 @@ Test for PR - please ignore
 Extra notes for updating ci.yml
 
 Testing failure of go tests
+
+Testing success of go tests
