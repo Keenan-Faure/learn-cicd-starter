@@ -29,3 +29,5 @@ Extra notes for updating ci.yml
 Testing failure of go tests
 
 Testing success of go tests
+
+code coverage test
