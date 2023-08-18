@@ -27,7 +27,7 @@ func TestGetAPIKey(t *testing.T) {
 		"Authorization": {"Basic abc123xyz345def678hij91011"},
 	}
 	_, err = GetAPIKey(headers)
-	if err != nil {
+	if err == nil {
 		t.Errorf("Expecting 'error' but found 'nil'")
 	}
 }
