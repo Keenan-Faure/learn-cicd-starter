@@ -33,3 +33,5 @@ Testing success of go tests
 code coverage test
 
 Testing the formatting of the code
+
+Testing linting (static checks)
