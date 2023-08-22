@@ -21,4 +21,21 @@ go build -o notely && ./notely
 _This starts the server in non-database mode._ It will serve a simple webpage at `http://localhost:8000`.
 
 You do _not_ need to set up a database or any interactivity on the webpage yet. Instructions for that will come later in the course!
-Testing cd.yml
+
+Test for PR - please ignore
+
+Extra notes for updating ci.yml
+
+Testing failure of go tests
+
+Testing success of go tests
+
+code coverage test
+
+Testing the formatting of the code
+
+Testing linting (static checks) - failing
+
+Testing linting (static checks) - passing no2
+
+Failing go sec
