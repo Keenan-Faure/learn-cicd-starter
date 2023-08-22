@@ -36,6 +36,6 @@ Testing the formatting of the code
 
 Testing linting (static checks) - failing
 
-Testing linting (static checks) - passing
+Testing linting (static checks) - passing no2
 
 Failing go sec
