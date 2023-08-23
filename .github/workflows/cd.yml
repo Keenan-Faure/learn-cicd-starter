@@ -32,7 +32,7 @@ jobs:
             - name: Use gcloud CLI
               run: gcloud info
             
-            - name: Buildy Docker image & push
-              run: gcloud builds submit --tag us-central1-docker.pkg.dev/notely-396706/notely-ar-repo/notely:TAG .
+            - name: Build Docker image & push
+              run: gcloud builds submit --tag us-central1-docker.pkg.dev/notely-396706/notely-ar-repo/notely:latest .
 
 
