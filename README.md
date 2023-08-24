@@ -39,3 +39,5 @@ Testing linting (static checks) - failing
 Testing linting (static checks) - passing no2
 
 Failing go sec
+
+Final test
